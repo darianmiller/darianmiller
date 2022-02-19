@@ -13,8 +13,11 @@
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nAtEqhMHJK) [Invite link](https://discord.gg/nAtEqhMHJK) for the Delphi Programmers server on Discord with 280+ Members
 
 ### Delphi MVP
-- [MVP Program](https://www.embarcadero.com/embarcadero-mvp-program)
-- [Announcement Blog Post](https://www.ideasawakened.com/post/now-an-embarcadero-mvp-for-delphi)
+- [My Blog Post](https://www.ideasawakened.com/post/now-an-embarcadero-mvp-for-delphi)
+- [MVP Program Info](https://www.embarcadero.com/embarcadero-mvp-program)
 
 <img src="https://raw.githubusercontent.com/darianmiller/darianmiller/master/Embarcadero%20MVP%20for%20Delphi.png" width="250" height="250">
 
+### JetBrains Developer Recognition Program
+- [JetBrains Announcement Blog Post](https://blog.jetbrains.com/blog/2021/11/12/jetbrains-welcomes-embarcadero-most-valuable-professionals-to-the-developer-recognition-program/)
+- [JetBrains Info Page](https://www.jetbrains.com/community/dev-recognition/)
