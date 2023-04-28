@@ -6,6 +6,7 @@
  - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ideasawakened) 390+ followers
  - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ideasawakened) 70+ followers
  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/35643523) 60+ followers
+ - [![GitHub](https://img.shields.io/github/stars/ideasawakened?style=social)](https://github.com/ideasawakened) IdeasAwakened GitHub Repos
 
 ### Created these Delphi Groups in 2021.  Join us online!
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/delphidevelopers) [Invite link](https://t.me/delphidevelopers) for the Delphi Developer group on Telegram with 700+ Members
